@@ -110,6 +110,9 @@ dist
 # Serverless directories
 .serverless/
 
+# Vercel
+.vercel/
+
 # FuseBox cache
 .fusebox/
 
@@ -137,3 +140,4 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+.vercel
